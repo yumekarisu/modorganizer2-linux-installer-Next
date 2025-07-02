@@ -1,3 +1,11 @@
+## What's This
+This is a fork of Rockerbacon's modorganizer2 installer script for linux that's now archived and stopped being updated. I decided to pick it up and continue maintain and updating it since I find it super helpful when modding Bethesda Games on Linux.
+
+For now there isn't any changes made to the install script. I only doing this on my spare time so expect not much new stuff for a while. Maybe a couple updates on SKSE here and there if Bethesda decided to update their game again.
+
+Credit's to [rockerbacon](https://github.com/rockerbacon/modorganizer2-linux-installer) for the original installer script.
+
+## Original README
 ## Introduction
 
 This project aims to make modding and playing Bethesda games on Linux as easy as possible. It does that by providing installers which automatically setup a working experience for the user.
